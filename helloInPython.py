@@ -1,0 +1,2 @@
+# Simple hello.
+print("Hello");
